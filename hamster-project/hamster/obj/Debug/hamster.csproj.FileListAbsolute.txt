@@ -1,0 +1,7 @@
+C:\Users\JoshuaMun\source\repos\hamster\hamster\bin\Debug\hamster.exe.config
+C:\Users\JoshuaMun\source\repos\hamster\hamster\bin\Debug\hamster.exe
+C:\Users\JoshuaMun\source\repos\hamster\hamster\bin\Debug\hamster.pdb
+C:\Users\JoshuaMun\source\repos\hamster\hamster\obj\Debug\hamster.csprojResolveAssemblyReference.cache
+C:\Users\JoshuaMun\source\repos\hamster\hamster\obj\Debug\hamster.csproj.CoreCompileInputs.cache
+C:\Users\JoshuaMun\source\repos\hamster\hamster\obj\Debug\hamster.exe
+C:\Users\JoshuaMun\source\repos\hamster\hamster\obj\Debug\hamster.pdb
