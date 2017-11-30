@@ -51,18 +51,19 @@ namespace vampires
                 bool Hired = false;
                 bool Check = false;
                 int TrueAge = 2017 - Year;
+                string Result;
 
                 if (TrueAge == Age && (GarlicBread || Health))
                 {
                     Hired = true;
                     Check = true;
-                    Console.WriteLine("Probably not a vampire");
+                    Result = "Probably not a vampire";
                 }
                 if (TrueAge != Age && (!GarlicBread || !Health))
                 {
                     Check = true;
                     Hired = false;
-                    Console.WriteLine("Probably a vampire.");
+                    Result = "Probably a vampire.";
                 }
                 if (TrueAge != Age && !GarlicBread && !Health)
                 {
